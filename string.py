@@ -1,5 +1,5 @@
 a = "mansi"
-b = 'mansi'
+b = 'deepali'
 print(a)
 print(a[0]) # in python string is like an arrray of characters
 

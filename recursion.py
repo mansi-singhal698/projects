@@ -15,5 +15,5 @@ def fibo(n):
    else:
        return fibo(n-1)+fibo(n-2)
 
-while(i<=n):
- print(fibo(i))
+
+print(fibo(5))
