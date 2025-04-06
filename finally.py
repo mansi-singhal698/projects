@@ -11,4 +11,3 @@ def func1():
         print("i am always executed")
 
 x = func1()
-print(x)
