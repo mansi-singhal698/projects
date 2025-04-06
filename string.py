@@ -39,6 +39,7 @@ print(str1.replace("mansi","deepali"))
 # 5th method
 cap = str1.capitalize()
 print(cap)
-
+ 
 # 6th method
 print(str1.endswith("!!!!!!!!"))
+
